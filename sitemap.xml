@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-    <loc>https://lucacolo01.github.io/SeiPrompting/seiprompting.html</loc>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://lucacolo01.github.io/SeiPrompting/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
+
+  <!-- Aggiungi qui altre pagine, se ne hai -->
+  <!--
+  <url>
+    <loc>https://lucacolo01.github.io/SeiPrompting/about.html</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+
 </urlset>
+
